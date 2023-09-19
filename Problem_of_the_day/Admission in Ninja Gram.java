@@ -20,42 +20,26 @@ Constraints:
 Where 'T' is the number of test cases, 'n' denotes the number of characters in the string.
 
 Sample Input 1:
-
 2
-
 12
-
 toosmallword
-
 35
-
 TheQuickBrown Fox JumpsOverTheLazyDog
-
 Sample Output 1:
-
 NO
-
 YES
+
 Sample Input 2:
-
 2
-
 16
-
 CodingNinjas
-
 10
-
 CodeStudio
-
 Sample Output 2:
-
 NO
-
 NO
-
-
 */
+
 import java.util.* ;
 import java.io.*; 
 public class Solution { 
