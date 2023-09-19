@@ -16,29 +16,17 @@ Constraints:
 Where 'T' is the number of test cases, 'n' denotes the number of characters in the string.
 */
 import java.util.* ;
-
- import java.io.*; 
-
- public class Solution { 
-
+import java.io.*; 
+public class Solution { 
 public static boolean ninjaGram(String str) {
-
 HashMap<Character,Integer> hm=new HashMap<>();
-
-       if(str.length()<26)return false;
-
+       if(str.length()<26)
+          return false;
        else{
-
-       for(int i=0;i<str.length();i++){
-
-       hm.put(Character.toLowerCase(str.charAt(i)),hm.getOrDefault(str.charAt(i),0)+1);
-
+          for(int i=0;i<str.length();i++){
+              hm.put(Character.toLowerCase(str.charAt(i)),hm.getOrDefault(str.charAt(i),0)+1);
+          }
        }
-
-       }
-
 return hm.size()==26?true:false;
-
- } 
-
+   }
 }
