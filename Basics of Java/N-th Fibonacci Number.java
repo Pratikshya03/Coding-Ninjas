@@ -4,8 +4,7 @@ Since the answer can be very large, return the answer modulo 10 * 9 + 7
 Fibonacci Number Is Calculated Using The Following Formula:
 F(n) = F(n - 1) + F(n - 2) , Where, F(1) = F(2) = 1 .
 
-For Example:
-4
+For Example:4
 For ^ prime N' = 5 , the output will be 5.
 
 Detailed explanation (Input/output format, Noti Input Format:
@@ -32,7 +31,6 @@ Sample Input 1:
 Sample Output 1:
 55
 13
-
 Sample Input 2:
 243
 1
