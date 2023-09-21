@@ -11,7 +11,6 @@ The third line of input contains a single Integer W, representing the Step Size.
 Output Format:
 Print the Fahrenheit and corresponding tab- separated (^ prime prime backslash t ^ prime prime ) Celcius value in a single line.
 Output for every Fahrenheit and corresponding celsius value will be printed in a separate line.
-
 Constraints:
 theta <= S <= 80 
 S <= E <= 900
