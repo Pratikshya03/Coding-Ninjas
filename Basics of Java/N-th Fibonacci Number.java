@@ -26,26 +26,17 @@ Constraints:
 Time Limit: 1 sec.
 
 Sample Input 1:
-
 2
-
 10
-
 7
-
 Sample Output 1:
-
 55
-
 13
+
 Sample Input 2:
-
 243
-
 1
-
 Sample Output 2:
-
 12
 */
 import java.util.* ;
