@@ -1,14 +1,8 @@
-/*Problem Statement
-
-Write a program to find the total number of a primes number in a given interval. Given two integers S and E, count all primes between
-
-S and E.
+/*Problem Statement:Write a program to find the total number of a primes number in a given interval. Given two integers S and E, 
+count all primes between S and E.
 Detailed explanation (Input/output format):
-
 Input Format:
-
 The only line of input contains two integers S and E separated by a single space.
-
 Output Format:
 
 The only line of the output prints the total number of primes.
