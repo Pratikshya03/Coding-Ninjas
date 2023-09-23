@@ -9,9 +9,7 @@ Sample Input 2:
 13
 Sample Output 2:
 3
-
 */
-
 import java.util.* ;
 import java.io.*; 
 public class Solution {
