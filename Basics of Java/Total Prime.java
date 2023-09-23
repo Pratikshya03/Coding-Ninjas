@@ -4,19 +4,10 @@ Detailed explanation (Input/output format):
 Input Format:
 The only line of input contains two integers S and E separated by a single space.
 Output Format:
-
 The only line of the output prints the total number of primes.
-
-Constraints
-
-1 <= N <= 100
-
-Sample Input 1:
-
-2 10
-Sample Output 1:
-
-4
+Constraints: 1 <= N <= 100
+Sample Input 1: 2 10
+Sample Output 1: 4
 
 Explanation Of Sample Input 1:
 
