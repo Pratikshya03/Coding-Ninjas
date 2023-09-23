@@ -11,7 +11,7 @@ Sample Output 1: 4
 Explanation Of Sample Input 1: The prime numbers between 2 and 10 are 2,3,5 and 7
 Sample Input 2: 25
 Sample Output 2: 3 */
-import java.util.* ;
+import java.util.*;
 import java.io.*; 
 import java.util.Scanner;
 class CountPrime {
@@ -32,7 +32,6 @@ class CountPrime {
 		return d;		
 	}
 }
-
 class Solution {
 	public static void main(String args[]) {
 		
