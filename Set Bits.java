@@ -1,9 +1,5 @@
-/* Problem Statement 
-  
-  Suggest Edit Write a program to count the number 
-  
-  of 1's in the binary representation of an integer.
-   Sample Input 1:
+/* Problem Statement:Suggest Edit Write a program to count the number of 1's in the binary representation of an integer.
+Sample Input 1:
 9
 Sample Output 1:
 2
