@@ -8,20 +8,9 @@ The only line of the output prints the total number of primes.
 Constraints: 1 <= N <= 100
 Sample Input 1: 2 10
 Sample Output 1: 4
-
-Explanation Of Sample Input 1:
-
-The prime numbers between 2 and 10
-
-are 2,3,5 and 7
-
-Sample Input 2:
-
-25
-
-Sample Output 2:
-
-3
+Explanation Of Sample Input 1: The prime numbers between 2 and 10 are 2,3,5 and 7
+Sample Input 2: 25
+Sample Output 2: 3
   */
 import java.util.* ;
 import java.io.*; 
