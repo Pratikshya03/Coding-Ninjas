@@ -15,7 +15,6 @@ Sample Output 1 :
 Constraints :
 1 <= 'N' <= 10^5
 */
-
 import java.util.ArrayList;
 import java.util.List;
 public class Solution{
