@@ -8,26 +8,16 @@ The last line contains an integer 'x' whose index has to be found.
 Output Format:
 The only line of the output prints the Index or -1.
 Constraints:
-
 1 <= N <= 10 ^ 3
-
 1 <= arr[i] <= 1theta ^ 9
-
 1 <= x < N
-
 Sample Input 1:
 7 5 2 11 2 43 1 1
-
 2
-
 Sample Output 1:
-
 2
-
 Explanation Of Sample Input 1:
-
 4
-
 2 is present twice in the input array and the first time it appears is at index 2.
 
 Sample Input 2:
