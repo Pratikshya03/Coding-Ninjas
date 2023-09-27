@@ -8,36 +8,23 @@ The last line contains an integer 'x'.
 Output Format:
 The only line of the output prints the Index on -1.
 Constraints:
-
 1 <= N <=10^3
 1 <= arr[i] <= 10^9
 1 <= X < N
-
 Sample Input 1:
-
 8 
-
 7 5 2 11 2 43 1 1
 2
 Sample Output 1:
 4
-
 Explanation Of Sample Input 1:
-
 2 is present twice in the input array and the last time it appears is at index 4.
-
 Sample Input 2:
-
 8
-
 7 5 2 11 2 43 11
-
 10
-
 Sample Output 2:-1
-
 Explanation Of Sample Input 2:
-
 10 is not present in the array so the output is -1.
 */
 import java.util.* ;
