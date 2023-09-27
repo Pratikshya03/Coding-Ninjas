@@ -1,20 +1,12 @@
-/*Problem Statement:
-
-Take an array with N elements with possibly duplicate elements as the input. The task is to find the index of the last occurrences of the element x in the array and, if it is not present, return -1
-
+/*Problem Statement:Take an array with N elements with possibly duplicate elements as the input. The task is to find the
+index of the last occurrences of the element x in the array and, if it is not present, return -1.
 Detailed explanation (Input/output format)
-
 Input Format:
-
 The first line contains an integer N representing the size of the array.
-
 The next line contains N space-separated integers representing the elements of the array.
-
 The last line contains an integer 'x'.
 Output Format:
-
 The only line of the output prints the Index on -1.
-
 Constraints:
 
 1 <= N <=10^3
