@@ -3,18 +3,10 @@ index of the first occurrences of the element x in the array and, if it is not p
 Detailed explanation (Input/output format)
 Input Format:
 The first line contains an integer N representing the size of the array.
-
 The next line contains N space-separated integers representing the elements of the array.
-
-The last line contains an integer
-
-A
-whose index has to be found.
-
+The last line contains an integer 'x' whose index has to be found.
 Output Format:
-
 The only line of the output prints the Index or -1.
-
 Constraints:
 
 1 <= N <= 10 ^ 3
