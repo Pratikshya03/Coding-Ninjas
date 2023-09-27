@@ -12,33 +12,19 @@ Constraints:
 1 <= arr[i] <= 1theta ^ 9
 1 <= x < N
 Sample Input 1:
+8
 7 5 2 11 2 43 1 1
 2
 Sample Output 1:
 2
-Explanation Of Sample Input 1:
-4
-2 is present twice in the input array and the first time it appears is at index 2.
-
+Explanation Of Sample Input 1: 2 is present twice in the input array and the first time it appears is at index 2.
 Sample Input 2:
-
 8
-
 7 5 2 11 2 43 1 1
 10
-
 Sample Output 2:
-
 -1
-
-4
-
-Explanation Of Sample Input 2:
-
-10 is not present in the array so the
-
-output is -1.
-*/
+Explanation Of Sample Input 2: 10 is not present in the array so the output is -1. */
 import java.util.*;
 class Solution {
 	
