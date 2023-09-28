@@ -1,10 +1,9 @@
-/*Problem Statement
 
-Suggest Edit
+/*Problem Statement:
 
 Given an array/list 'ARR' of integers and a position 'M'. You have to reverse the array after that position. Example:
 
-We have an array ARR = \{1, 2, 3, 4, 5, 6\} and M = 3 , considering e based indexing so the subarray {5, 6} will be reversed and our output array will be \{1, 2, 3, 4, 6, 5\} .
+We have an array ARR = {1, 2, 3, 4, 5, 6} and M = 3 , considering e based indexing so the subarray {5, 6} will be reversed and our output array will be {1, 2, 3, 4, 6, 5} .
 
 Detailed explanation (Input/output format, Notes
 
@@ -19,11 +18,7 @@ The second line of every test case contains 'N' space-separated integers which d
 
 Output Format:
 
-For each test case, return the required array.
-Output for each test case is printed on a separate line.
-
-Note:
-
+For each test case, return the required 
 You do not need to print anything, it has already been taken care of. Just implement the given function.
 
 Consider 0-based indexing of the array.
