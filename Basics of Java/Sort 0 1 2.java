@@ -25,7 +25,7 @@ Sample Input 2:
 Sample Output 2:
 0 1 1 1 2 2 2
 0 0 1 1 2 2
- */
+*/
 import java.util.* ;
 import java.io.*; 
 public class Solution 
