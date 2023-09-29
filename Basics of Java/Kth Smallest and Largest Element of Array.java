@@ -27,7 +27,7 @@ Sample Input 2:
 Sample Output 2:
 2 2
 1 5
-*/
+ */
 import java.util.ArrayList;
 import java.util.*;
 
