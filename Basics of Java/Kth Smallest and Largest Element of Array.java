@@ -1,4 +1,4 @@
-/* Problem Statement:You are given an array 'Arr' consisting of 'N' distinct integers and a positive integer 'K.
+/*Problem Statement:You are given an array 'Arr' consisting of 'N' distinct integers and a positive integer 'K.
 Find out Kth smallest and Kth largest element of the array. It is guaranteed that K is not greater than the size of the array.
 Example:
 Let prime 'N' = 4,'Arr' be [1, 2, 5, 4] and 'K' = 3 then the elements of this array in ascending order is 
@@ -27,7 +27,7 @@ Sample Input 2:
 Sample Output 2:
 2 2
 1 5
- */
+*/
 import java.util.ArrayList;
 import java.util.*;
 
