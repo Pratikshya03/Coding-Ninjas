@@ -1,5 +1,4 @@
-/*
-Problem Statement:Given three values - Start Fahrenheit Value (S), End Fahrenheit value (E), and Step Size (W), you need to 
+/*Problem Statement:Given three values - Start Fahrenheit Value (S), End Fahrenheit value (E), and Step Size (W), you need to 
 convert all Fahrenheit values from Start to End at the gap of W into their corresponding Celsius values and print the table.
 Note:
 Print the floor of the Celsius values if they are non-negative else print its ceil value.
@@ -7,7 +6,6 @@ Detailed explanation (Input/output format, Notes, love Input Format:
 The first line of input contains a single integer S, representing the Start Fahrenheit Value.
 The second line of input contains a single integer E, representing the end Fahrenheit Value.
 The third line of input contains a single Integer W, representing the Step Size.
-
 Output Format:
 Print the Fahrenheit and corresponding tab- separated (^ prime prime backslash t ^ prime prime ) Celcius value in a single line.
 Output for every Fahrenheit and corresponding celsius value will be printed in a separate line.
