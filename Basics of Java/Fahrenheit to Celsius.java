@@ -13,7 +13,6 @@ Constraints:
 theta <= S <= 80 
 S <= E <= 900
 theta <= W <= 4theta
-
 Sample Input 1:
 100
 20
@@ -24,7 +23,6 @@ Sample Output 1:
 60 15
 80 26
 100 37
-
 Sample Input 2:
 20
 119
