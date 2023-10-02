@@ -1,36 +1,21 @@
 /*Problem Statemet:For a given input string (str), write a function to print all the possible substrings.
 Constraints:
-
 theta <= N <= 10 ^ 3 
 Where N is the length of the input string.
-
 Sample Input 1:
-
 abc
-
 Sample Output 1:
-
 a
-
 ab
-
 abc
 b
-
 bc
-
 c
-
 Sample Input 2:
-
 co
-
 Sample Output 2:
-
 c
-
 co
-
 o
 */
 import java.util.* ;
