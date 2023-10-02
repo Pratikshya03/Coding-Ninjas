@@ -1,4 +1,4 @@
-/* Problem Statemet:For a given input string (str), write a function to print all the possible substrings.
+/*Problem Statemet:For a given input string (str), write a function to print all the possible substrings.
 Constraints:
 theta <= N <= 10 ^ 3 
 Where N is the length of the input string.
