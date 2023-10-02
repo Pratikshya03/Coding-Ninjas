@@ -9,9 +9,7 @@ Sample Output 1:
 2
 Sample Input 2:
 this is a sample string
-
 Sample Output 2:
-
 5
 */
 import java.util.* ;
