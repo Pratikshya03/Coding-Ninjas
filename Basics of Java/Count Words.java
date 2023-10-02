@@ -1,19 +1,13 @@
 /*Problem Statement:For a given input string (str), find and return the total number of words present in it.It is assumed that two words
 will have only a single space in between. Also, there wouldn't be any leading and trailing spaces in the given input string.
 Constraints:
-
 theta <= N <= 10 ^ 3 
 Where N is the length of the input string.
-
 Sample Input 1:
-
 Coding Ninjas!
-
 Sample Output 1:
-
 2
 Sample Input 2:
-
 this is a sample string
 
 Sample Output 2:
