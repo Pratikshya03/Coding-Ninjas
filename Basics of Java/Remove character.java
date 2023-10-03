@@ -9,10 +9,8 @@ a
 Sample Output 1:
 bccb
 Sample Input 2:
-
 xxyyzxx
 y
-
 Sample Output 2:
 xxzxx
 */
