@@ -9,9 +9,7 @@ Sample Output 1:
 Ninjas Coding to Welcome
 Sample Input 2:
 Always indent your code
-
 Sample Output 2:
-
 code your indent Always
 */
 import java.util.Scanner;
