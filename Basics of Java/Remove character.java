@@ -1,19 +1,12 @@
 /* Problem Statement:For a given string (str) and a character X, write a function to remove all the occurrences of X from the given string and return it.
 The input string will remain unchanged if the given character(X) doesn't exist in the input string.
 Constraints:
-
 0 <= N <= 10^6
-
 Where N is the length of the input string.
-
 Sample Input 1:
-
 aabccbaa
-
 a
-
 Sample Output 1:
-
 bccb
 Sample Input 2:
 
