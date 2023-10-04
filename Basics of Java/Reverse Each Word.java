@@ -1,23 +1,15 @@
 /*Problem Statement:Aadil has been provided with a sentence in the form of a string as a function parameter. The task is to 
 implement a function so as to print the sentence such that each word in the sentence is reversed.
 Constraints:
-
 theta <= N <= 10 ^ 6 
 Where N is the length of the input string.
-
 Sample Input 1:
-
 Welcome to Coding Ninjas
-
 Sample Output 1:
-
 emoclew ot gnidoC sajniN
 Sample Input 2:
-
 Always indent your code
-
 Sample Output 2:
-
 syawlA tnedni ruoy edoc
 */
 import java.util.* ;
