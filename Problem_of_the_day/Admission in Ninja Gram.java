@@ -7,15 +7,12 @@ The second line of each test case contains the string where the string character
 Output Format:
 For each test case, if Ninja managed to solve the problem, print "YES" else "NO".
 Print the output of each test case in a separate line.
-
 Note:
 You are not required to print the expected output; it has already been taken care of. Just implement the function.
-
 Constraints:
 1<= T <= 50
 1<= n <= 10^4
 Where 'T' is the number of test cases, 'n' denotes the number of characters in the string.
-
 Sample Input 1:
 2
 12
@@ -25,7 +22,6 @@ TheQuickBrown Fox JumpsOverTheLazyDog
 Sample Output 1:
 NO
 YES
-
 Sample Input 2:
 2
 16
@@ -36,7 +32,6 @@ Sample Output 2:
 NO
 NO
 */
-
 import java.util.* ;
 import java.io.*; 
 public class Solution { 
