@@ -3,10 +3,9 @@
 You need to create the appropriate constructor.
 2. Plus -
 This function adds two given complex numbers and updates the first complex number.
-e.g.
-if C1=4+i5 and C2=3+i1
-C1. plus (C2) results in:
-C1=7+i6 and  C2=3+i1
+e.g.:-if C1=4+i5 and C2=3+i1
+      C1. plus (C2) results in:
+      C1=7+i6 and  C2=3+i1
 3. Multiply -
 This function multiplies two given complex numbers and updates the first complex number.
 e.g.
