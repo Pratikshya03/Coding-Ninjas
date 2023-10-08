@@ -18,23 +18,14 @@ This function prints the given complex number in the following format:
 a + ib
 Note:There is space before and after '+' (plus sign) and no space between 'i' (iota symbol) and b.
 Sample Input 1:
-
 4 5
-
 6 7
-
 1
-
 Sample Output 1:
-
 10 + i12
-
 Sample Input 2:
-
 4 5
-
 6 7
-
 2
 Sample Output 2 :
 -11 + i58
