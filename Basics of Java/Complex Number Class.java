@@ -1,20 +1,14 @@
 /*Problem Statement:A ComplexNumber class contains two data members: one is the real part (R) and the other is imaginary (I) (both integers). Implement the Complex numbers class that contains the following functions -
-1. Constructor
-You need to create the appropriate constructor.
-2. Plus -
-This function adds two given complex numbers and updates the first complex number.
+1. Constructor - You need to create the appropriate constructor.
+2. Plus - This function adds two given complex numbers and updates the first complex number.
 e.g.:-if C1=4+i5 and C2=3+i1
       C1. plus (C2) results in:
       C1=7+i6 and  C2=3+i1
-3. Multiply -
-This function multiplies two given complex numbers and updates the first complex number.
-e.g.
-if C1 =4+i5 and C2=1+i2
-C1. multiply (C2) results in:
-C1=-6+i13 and C2=1+i2
-4. Print -
-This function prints the given complex number in the following format:
-a + ib
+3. Multiply - This function multiplies two given complex numbers and updates the first complex number.
+e.g.:-if C1 =4+i5 and C2=1+i2
+      C1. multiply (C2) results in:
+      C1=-6+i13 and C2=1+i2
+4. Print - This function prints the given complex number in the following format: a + ib
 Note:There is space before and after '+' (plus sign) and no space between 'i' (iota symbol) and b.
 Sample Input 1:
 4 5
