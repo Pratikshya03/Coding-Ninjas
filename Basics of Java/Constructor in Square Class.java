@@ -1,4 +1,4 @@
-/* Problem Statement:Create a class Square which has both default constructor and parameterized constructor,
+/*Problem Statement:Create a class Square which has both default constructor and parameterized constructor,
 a length parameter,and a printArea method which take the length as an argument and prints the area. 
 In the case of the default parameter, the default value of length will be equal to 10.
 All the Input and Output methods are take care by compiler you don't have to worry about it.
