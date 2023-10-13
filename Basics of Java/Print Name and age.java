@@ -1,4 +1,5 @@
-/*Problem Statement:Create a class named Person with a string variable 'name' and an integer variable 'age,' such that these variables are not accessible outside the class and implement a way to initialize the variables and print the variables.
+/*Problem Statement:Create a class named Person with a string variable 'name' and an integer variable 'age,' such that
+these variables are not accessible outside the class and implement a way to initialize the variables and print the variables.
 Functions:
 1.SetValue- That Sets The Variables Value.
 2.GetValue- That Prints The Variables Value.
