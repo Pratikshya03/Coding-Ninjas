@@ -15,7 +15,6 @@ maxSpeed: 1000
 import java.io.*;
 import java.util.* ;
 import java.util.*;
-
 class Car {
     int noOfGear;
     String color;
@@ -29,7 +28,6 @@ class Car {
         System.out.println("color: "+color);
     }
 }
-
 class RaceCar extends Car {
     int maxSpeed;
     // Write your constructor and printRaceCarInfo method here.
@@ -42,17 +40,14 @@ class RaceCar extends Car {
         System.out.println("maxSpeed: "+maxSpeed);
     }
 }
-
 class Solution {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);
-
         int noOfGear = sc.nextInt();
 
         // [IGNORE]: Extra "end line" in previous line.
         sc.nextLine();
-
         String color = sc.nextLine();
         int maxSpeed = sc.nextInt();
         RaceCar raceCar = new RaceCar(noOfGear, color, maxSpeed);
