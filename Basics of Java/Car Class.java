@@ -13,10 +13,7 @@ color: red
 maxSpeed: 1000
 */
 import java.io.*;
-
 import java.util.* ;
- 
-
 import java.util.*;
 
 class Car {
